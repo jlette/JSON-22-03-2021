@@ -1,0 +1,7 @@
+{
+  "nom":"SIO",
+  "prenom": "Etudiant",
+  "age":18,
+  "loisirs":["Foot","Lecture","Jeux vidéo"],
+  "salaire": {"2022":14000,"2025":30000,"2030":45000}
+}

@@ -1,0 +1,10 @@
+{
+  "nom":"SIO",
+  "prenom": "Etudiant",
+  "age":18,
+  "loisirs":["Foot","Lecture","Jeux vidéo"],
+  "salaire": {"2022":14000,"2025":30000,"2030":45000},
+  "competences":["java","python","javascript"],
+  "experiences": {"Umanis": 6,"Cap Gemini":  12},
+  "disponible": true
+}

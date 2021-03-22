@@ -1,0 +1,29 @@
+{
+	"section": "Super Section SIO",
+	"option": "SLAM",
+	"datePromotion": "2020-09-01",
+	"active": true,
+	"eleves": [
+	{
+		"nom": "Fleischmann",
+		"prenom": "Victor",
+		"age": 22,
+		"matieresPreferees": [
+			"SLAM3",
+			"SLAM4",
+			"Francais"
+		]
+	},
+	{
+		"nom": "Okar",
+		"age": 19,
+		"matieresPreferees": [
+			"SLAM3",
+			"SLAM4",
+			"Anglais"
+		]
+	}
+	]
+}
+	
+		
